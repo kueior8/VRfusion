@@ -1,0 +1,2 @@
+WIN7  NG
+WIN11 OK
